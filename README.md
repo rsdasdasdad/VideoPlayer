@@ -45,4 +45,5 @@ python main_app.py
 
 ## 開發者
 
-King
+- 作者：[rsdasdasdad]
+- 聯繫：[sesamehimtai@gmail.com]
